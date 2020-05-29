@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/3d64e9429d4dec0507dd09db5f8d3d1b/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/3d64e9429d4dec0507dd09db5f8d3d1b/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/3d64e9429d4dec0507dd09db5f8d3d1b/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/3d64e9429d4dec0507dd09db5f8d3d1b/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/3d64e9429d4dec0507dd09db5f8d3d1b/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/3d64e9429d4dec0507dd09db5f8d3d1b/res/anim/catalyst_push_up_in.xml"
+    }
+]

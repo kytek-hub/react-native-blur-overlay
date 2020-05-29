@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/0246c11c250cc28312fa2ee41e48249f/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/4f1d58c5390e6c4278c120674d5a08e7/res/drawable-v21/abc_list_divider_material.xml"
+    }
+]

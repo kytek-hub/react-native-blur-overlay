@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml:3:11-35
+		INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+		ADDED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+		ADDED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+		ADDED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+		ADDED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/src/main/AndroidManifest.xml

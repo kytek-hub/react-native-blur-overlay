@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/0246c11c250cc28312fa2ee41e48249f/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/0246c11c250cc28312fa2ee41e48249f/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/0246c11c250cc28312fa2ee41e48249f/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/khiem/Desktop/Coin98 Group/App_Coin98/node_modules/react-native-blur-overlay/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/khiem/.gradle/caches/transforms-2/files-2.1/0246c11c250cc28312fa2ee41e48249f/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
